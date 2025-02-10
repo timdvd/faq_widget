@@ -15,5 +15,8 @@
 Clone the repository:
 git clone https://github.com/timdvd/faq_widget.git  
 
+### Preview:
+https://timdvd.github.io/faq_widget/
+
 Screenshots
 ![Screenshot 2025-02-10 205011](https://github.com/user-attachments/assets/ff6269d7-fa55-4153-8304-c2bf3ab14144)
